@@ -6,7 +6,7 @@ image: css/Info.png
 
 ---
 <br>
-Bedankt, kaboutertje Fred.  
+Met dank aan kabouter Freddie.  
 Zonder jouw medewerking was er vast niet veel van deze blog terecht gekomen!
 
 <br> 
