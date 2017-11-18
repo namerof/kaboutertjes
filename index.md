@@ -6,7 +6,7 @@ title:   Welkom
 # Welkom
 ---  
 
-## Een blog over kaboutertjes, wat eten zij zoal ?     
+## Een blog over kaboutertjes, wat eten zij zoal ? (test.......... blog)     
 
 ![](images/kabouter.gif)       
       
