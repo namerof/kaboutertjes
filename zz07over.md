@@ -6,7 +6,8 @@ image: css/Info.png
 
 ---
 <br>
-Bedankt, kabouterje "Happy" Zonder jouw medewerking was er niet veel van deze blog terecht gekomen!
+Bedankt, kaboutertje Fred.  
+Zonder jouw medewerking was er vast niet veel van deze blog terecht gekomen!
 
 <br> 
 <br> 
