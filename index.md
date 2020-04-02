@@ -7,8 +7,7 @@ title:   Welkom
 ---  
 
 ## Een blog over kaboutertjes, wat eten zij zoal ? (test.......... blog)     
-
-![](images/kabouter.gif)       
+      
           
 
 ## Nieuws:
